@@ -1,2 +1,1 @@
-# Horiseon2
-Horison search engine optimization project
+# Code Refactor Starter Code
